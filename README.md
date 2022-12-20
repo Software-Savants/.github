@@ -10,6 +10,9 @@ Software Savants is a software services organization dedicated to helping busine
 * Project management
 Our team of experienced software developers and project managers are committed to delivering high-quality solutions that meet your specific requirements. We work with you every step of the way, from initial consultation to final deployment, to ensure your project is a success.
 
+## Our Approach
+At Software Savants, we take a collaborative approach to software development. We work closely with our clients to understand their needs and goals, and we use agile methodologies to ensure that we deliver high-quality software on time and on budget.
+
 ## How to get started
 To get started with Software Savants, simply reach out to us through our website or via email. We will schedule a consultation to discuss your project in more detail and provide a quote.  You can reach us at info@software-savants.com .
 
