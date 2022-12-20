@@ -1,4 +1,3 @@
-# .github
 # Welcome to Software Savants
 Software Savants is a software services organization dedicated to helping businesses and individuals solve their software needs. We offer a wide range of services, including:
 
